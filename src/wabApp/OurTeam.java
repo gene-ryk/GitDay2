@@ -6,4 +6,6 @@ public class OurTeam {
 
     // Team page finished
 
+    // Add two more members
+
 }
