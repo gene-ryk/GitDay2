@@ -4,4 +4,6 @@ public class HomePage {
 
     // Home page set up
 
+    // Logo
+
 }
