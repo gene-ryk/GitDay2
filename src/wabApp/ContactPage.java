@@ -1,12 +1,14 @@
 package wabApp;
+public class ContactPage {
 
-// created contact page
+    // created contact page
 
 // FB
-//Instagram
-//Twitter
+// Instagram
+// Twitter
 
-//WhatsApp
+// WhatsApp
 
-public class ContactPage {
+// Finish with the contact page
+
 }
