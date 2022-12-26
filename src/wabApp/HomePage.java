@@ -8,4 +8,6 @@ public class HomePage {
 
     // Footer
 
+    // Finish the home page
+
 }
