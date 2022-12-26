@@ -6,5 +6,7 @@ package wabApp;
 //Instagram
 //Twitter
 
+//WhatsApp
+
 public class ContactPage {
 }
